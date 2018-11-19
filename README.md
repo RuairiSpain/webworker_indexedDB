@@ -1,5 +1,5 @@
-# webworker_indexedDB
-Performance Experiment with WebWorker sendMessage() and IndexedDB 
+# Thought experiments with Webworker IndexedDB
+Performance of postMessage() with WebWorker and IndexedDB 
 
 
 Combine WebWorkders, JSON stringify and IndexedDB.  
